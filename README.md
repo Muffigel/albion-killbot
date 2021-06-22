@@ -98,3 +98,15 @@ yarn start
 # Contributing
 
 Patches and suggestions are very welcome, but please note that I will judge the quality of the code before merging it through the Pull Request process.
+
+
+Open in Autocode
+================
+
+To add an Open in Autocode button to your GitHub repository,
+simply copy and paste the following code anywhere into README.md
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+
+Enjoy!
+  - Standard Library Team
